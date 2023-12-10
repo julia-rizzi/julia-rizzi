@@ -6,4 +6,4 @@ um
 ## 🤍
 dois
 
-<p style="color:Tomato;"> dois </p>
+<p style="color:Tomato;">dois</p>
