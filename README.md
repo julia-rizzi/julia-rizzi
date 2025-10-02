@@ -59,6 +59,10 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/julia-rizzi/julia-rizzi/output/snake.svg" alt="Snake animation" />
+</div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=96dcf3&section=footer"/>
 
 <div align="left">
