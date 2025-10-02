@@ -1,14 +1,14 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&duration=1500&pause=1000&color=F7F6AF&width=435&lines=Hello!;My+name+is+Julia;I+love+cats+and+Snoopy+%E0%A9%AF%E2%80%A7%CC%80%CD%A1%E2%AC%AE" alt="Typing SVG" />
-  </a>
-</p> <p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=96dcf3"/>
 
-## abube
-awawawawa
-
-<p align="center">
+<div align="center" style="width:100%;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&duration=1500&pause=1000&color=F7F6AF&width=435&lines=Thanks+for+reading!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&duration=4000&pause=1000&color=9EE3F5&width=435&lines=Welcome!+%E2%8A%B9+%E2%82%8A+%E2%9F%A1+%E2%8B%86" alt="Typing SVG" />
   </a>
-</p> <p align="center">
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/7YZJgEz.png" alt="Descrição da imagem" height="100"/>
+</div>
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=96dcf3&section=footer"/>
