@@ -70,5 +70,5 @@
        alt="GIF animado" 
        width="120" 
        style="vertical-align:middle; margin-right:10px;">
-  <code><span style="font-size:12px; color:#007acc;">Please do not copy my README template! Thank you</span></code>
+  <code><span style="font-size:12px; color:#007acc;">through the fire and the flames, we carry on</span></code>
 </div>
