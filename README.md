@@ -1,9 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=96dcf3"/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/スヌーピー大好き！-dbf6ff" alt="Snoopy Daisuki">
+  <img src="https://img.shields.io/badge/スヌーピー！-dbf6ff" alt="Snoopy Daisuki">
   <br>
-  <code><span style="font-size:12px; color:#007acc; line-height:1.2;">Hello World! I'm Julia</span></code>
+  <code><span style="font-size:12px; color:#007acc; line-height:1.2;">Hello World!</span></code>
 </div>
 
 <br style="line-height:20px;">
@@ -70,5 +70,5 @@
        alt="GIF animado" 
        width="120" 
        style="vertical-align:middle; margin-right:10px;">
-  <code><span style="font-size:12px; color:#007acc;">through the fire and the flames, we carry on</span></code>
+  <code><span style="font-size:12px; color:#007acc;">Through the fire and the flames, we carry on</span></code>
 </div>
